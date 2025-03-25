@@ -2,7 +2,7 @@
 ## 📌 Project Overview
 This project focuses on weather forecasting using time series models, particularly Facebook Prophet, and anomaly detection using STL + ESD. The dataset includes weather attributes such as temperature, precipitation, wind speed, humidity, and air quality, recorded at 15-minute intervals.
 
-Full Report: 
+Full Report: https://github.com/Emilosaurus/PMA-internship/blob/92e94565f2945580e6dfd982d55a1e8d23cc431a/Weather%20Forecasting%20Report.pdf
 
 ## 🎯 Objectives
 - Perform Exploratory Data Analysis (EDA) to understand trends and seasonality.
