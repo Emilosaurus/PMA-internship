@@ -62,7 +62,8 @@ This project focuses on weather forecasting using time series models, particular
 - High anomalies detected in `wind_kph`, `pressure_mb`, and `air_quality_PM10`.
 - Possible sensor errors affecting `visibility_km` and `cloud` readings.
 
-![Anomaly Detection](image.png)
+![Anomaly Detection](https://github.com/user-attachments/assets/d886e819-d392-4944-beac-4c4a3d971077)
+
 
 ## 📌 Key Insights & Recommendations
 ### 🔹 Key Findings
