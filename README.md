@@ -1,4 +1,3 @@
- Weather Forecasting Project
 
 ## 📌 Project Overview
 This project focuses on weather forecasting using time series models, particularly Facebook Prophet, and anomaly detection using STL + ESD. The dataset includes weather attributes such as temperature, precipitation, wind speed, humidity, and air quality, recorded at 15-minute intervals.
